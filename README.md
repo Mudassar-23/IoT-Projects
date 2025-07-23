@@ -1,4 +1,4 @@
-Internet of Things (IOT Project)
+Internet of Things (IoT Project)
 
 =>Smart IoT RFID Attendance System using NodeMCU ESP8266 and Google Sheets
 
