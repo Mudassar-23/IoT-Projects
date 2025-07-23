@@ -5,15 +5,15 @@ This project demonstrates how to build a smart and efficient attendance system u
 
 🔍 How It Works:
 
-An RFID card is scanned on the MFRC522 module connected to NodeMCU ESP8266.
+ An RFID card is scanned on the MFRC522 module connected to NodeMCU ESP8266.
 
-NodeMCU sends the card UID, along with the timestamp, to a Google Apps Script Web App (HTTP GET Request).
+ NodeMCU sends the card UID, along with the timestamp, to a Google Apps Script Web App (HTTP GET Request).
 
-The data is automatically logged into Google Sheets.
+ The data is automatically logged into Google Sheets.
 
-Simultaneously, the same data is printed on the Arduino Serial Monitor for live confirmation.
+ Simultaneously, the same data is printed on the Arduino Serial Monitor for live confirmation.
 
-A buzzer provides feedback on successful scans.
+ A buzzer provides feedback on successful scans.
 
 
 => Temperature & Humidity Monitor
