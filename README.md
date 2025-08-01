@@ -1,5 +1,4 @@
 ## 🌐 Internet of Things (IoT) Projects
-
 ---
 
 ### ✅ Smart IoT RFID Attendance System
