@@ -1,7 +1,7 @@
 ## 🌐 Internet of Things (IoT) Projects
 
 
-###  -> Smart IoT RFID Attendance System
+### ✅ Smart IoT RFID Attendance System
 
 A smart and efficient attendance system using **RFID**, **NodeMCU ESP8266**, and **Google Sheets** as a cloud database.
 
@@ -13,7 +13,7 @@ A smart and efficient attendance system using **RFID**, **NodeMCU ESP8266**, and
 
 ---
 
-### -> Smart Light System
+### 💡 Smart Light System
 
 Control lights using your **smartphone** or **voice assistants** (e.g., Alexa).
 
