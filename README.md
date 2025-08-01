@@ -1,32 +1,35 @@
-Internet of Things (IoT Project)
-
-=>Smart IoT RFID Attendance System using NodeMCU ESP8266 and Google Sheets
-
-This project demonstrates how to build a smart and efficient attendance system using RFID technology integrated with the NodeMCU ESP8266 Wi-Fi Module and Google Sheets as a cloud-based database.
-
-🔍 How It Works:
-
- An RFID card is scanned on the MFRC522 module connected to NodeMCU ESP8266.
-
- NodeMCU sends the card UID, along with the timestamp, to a Google Apps Script Web App (HTTP GET Request).
-
- The data is automatically logged into Google Sheets.
-
- Simultaneously, the same data is printed on the Arduino Serial Monitor for live confirmation.
-
- A buzzer provides feedback on successful scans.
+## 🌐 Internet of Things (IoT) Projects
 
 
-=> Smart Light System
+###  -> Smart IoT RFID Attendance System
 
- What it does: Turn lights on/off using your smartphone or voice (e.g., via Alexa).
+A smart and efficient attendance system using **RFID**, **NodeMCU ESP8266**, and **Google Sheets** as a cloud database.
 
- Components: ESP8266/ESP32, relay module, light bulb, Wi-Fi/Bluetooth.
+**How It Works:**
+- RFID card is scanned using the **MFRC522** module.
+- **NodeMCU** sends UID to a **Google Apps Script Web App** via HTTP GET.
+- Data is logged into **Google Sheets** automatically.
+- Feedback is shown in the **Arduino Serial Monitor** and confirmed via a buzzer.
 
+---
 
+### -> Smart Light System
 
-=> Temperature & Humidity Monitor
+Control lights using your **smartphone** or **voice assistants** (e.g., Alexa).
 
- What it does: Sends real-time temperature and humidity data to your phone as well as in blynk website also temperature moves to above 30 the alert notification received in email.
+**How It Works:**
+- ESP8266/ESP32 is connected to a relay module and light bulb.
+- Control is done via mobile app or voice using **Bluetooth**.
 
- Components: DHT11 or DHT22 sensor, ESP8266, Blynk app.
+---
+
+### 🌡️ Temperature & Humidity Monitor
+
+Monitor real-time temperature and humidity.
+
+**How It Works:**
+- **DHT11/DHT22** reads environmental data.
+- Data is sent to the **Blynk App** via Wi-Fi.
+- If temperature exceeds **30°C**,  receive an **email alert**.
+
+---
