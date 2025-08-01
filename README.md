@@ -33,3 +33,11 @@ Monitor real-time temperature and humidity.
 - If temperature exceeds **30°C**,  receive an **email alert**.
 
 ---
+
+## How to Run the Project
+
+1. Clone the repository to your local machine:
+
+```bash
+ git clone https://github.com/Mudassar-23/IoT-Projects.git
+```
