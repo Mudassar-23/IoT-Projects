@@ -32,7 +32,8 @@ Monitor real-time Air Quality.
 - Data is sent to a **Blynk App** and web dashboard. 
 - If gas or dust exceeds threshold, a **red LED** is activated as an **alert indicator**.
 
-Components: DHT11 sensor, optical dust sensor, gas sensor (MQ135), ESP8266, Blynk platform.
+**Components:** DHT11 sensor, optical dust sensor, gas sensor (MQ135), ESP8266, Blynk platform.
+
 ---
 
 ## How to Run the Project
