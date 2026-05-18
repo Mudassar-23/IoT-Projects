@@ -23,15 +23,16 @@ Control lights using your **smartphone** or **voice assistants** (e.g., Alexa).
 
 ---
 
-### 🌡️ Temperature & Humidity Monitor
+### 🌡️ Environmental Monitoring System
 
-Monitor real-time temperature and humidity.
+Monitor real-time Air Quality.
 
 **How It Works:**
-- **DHT11/DHT22** reads environmental data.
-- Data is sent to the **Blynk App** via Wi-Fi.
-- If temperature exceeds **30°C**,  receive an **email alert**.
+- Monitors real-time environmental conditions including temperature, air quality, and dust levels. 
+- Data is sent to a **Blynk App** and web dashboard. 
+- If gas or dust exceeds threshold, a **red LED** is activated as an **alert indicator**.
 
+Components: DHT11 sensor, optical dust sensor, gas sensor (MQ135), ESP8266, Blynk platform.
 ---
 
 ## How to Run the Project
