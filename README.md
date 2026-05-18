@@ -1,6 +1,19 @@
 ## 🌐 Internet of Things (IoT) Projects
 
 
+### 🌡️ Environmental Monitoring System
+
+Monitor real-time Air Quality.
+
+**How It Works:**
+- Monitors real-time environmental conditions including temperature, air quality, and dust levels. 
+- Data is sent to a **Blynk App** and web dashboard. 
+- If gas or dust exceeds threshold, a **red LED** is activated as an **alert indicator**.
+
+**Components:** DHT11 sensor, optical dust sensor, gas sensor (MQ135), ESP8266, Blynk platform.
+
+---
+
 ### ✅ Smart IoT RFID Attendance System
 
 A smart and efficient attendance system using **RFID**, **NodeMCU ESP8266**, and **Google Sheets** as a cloud database.
@@ -20,20 +33,7 @@ Control lights using your **smartphone** or **voice assistants** (e.g., Alexa).
 **How It Works:**
 - ESP8266/ESP32 is connected to a relay module and light bulb.
 - Control is done via mobile app or voice using **Bluetooth**.
-
----
-
-### 🌡️ Environmental Monitoring System
-
-Monitor real-time Air Quality.
-
-**How It Works:**
-- Monitors real-time environmental conditions including temperature, air quality, and dust levels. 
-- Data is sent to a **Blynk App** and web dashboard. 
-- If gas or dust exceeds threshold, a **red LED** is activated as an **alert indicator**.
-
-**Components:** DHT11 sensor, optical dust sensor, gas sensor (MQ135), ESP8266, Blynk platform.
-
+  
 ---
 
 ## How to Run the Project
