@@ -1,6 +1,6 @@
 ## 🌐 Internet of Things (IoT) Projects
 
-
+---
 ### 🌡️ Environmental Monitoring System
 
 Monitor real-time Air Quality.
